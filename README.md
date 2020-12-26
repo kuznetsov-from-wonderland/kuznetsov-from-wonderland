@@ -4,4 +4,4 @@ I'm independent Software Engineer. I help people do digital businesses by buildi
 
 Javascript is my primary language. I'm also on my way mastering Swift. So yeah, I code mobile experience, you experience the code.
 
-🥂 Cheers!
+Cheers!
