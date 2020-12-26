@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+
+Independent Software Engineer. I build iOS and Android apps with React Native📱 I like help people do digital businesses.
 
 <!--
 **kromsik/kromsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🥂 Cheers!
